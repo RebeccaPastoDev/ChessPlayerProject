@@ -1,0 +1,101 @@
+=================================================
+              CHESS PLAYER REPORT
+=================================================
+
+SECTION 1: Top Player
+-------------------------------------------------
+Top Player in Chess Today: Magnus Carlsen
+
+
+SECTION 2: Players Sorted by Rating (Ascending)
+-------------------------------------------------
+Name                  Rating    
+-------------------------------------------------
+Judit Polgar          2190      
+Alireza Firouzja      2200      
+Koneru Humpy          2240      
+Hou Yifan             2250      
+Anish Giri            2300      
+Ding Liren            2300      
+Leinier Dominguez     2300      
+Fabiano Caruana       2350      
+Wesley So             2350      
+Hikaru Nakamura       2768      
+Vishy Anand           2785      
+Magnus Carlsen        2882      
+
+SECTION 3: Reversing List with Stack 
+-------------------------------------------------
+Name                  Updated Rating
+-------------------------------------------------
+Magnus     Carlsen    3219      
+Vishy      Anand      2785      
+Hikaru     Nakamura   2768      
+Wesley     So         2350      
+Fabiano    Caruana    2350      
+Leinier    Dominguez  2300      
+Ding       Liren      2300      
+Anish      Giri       2300      
+Hou        Yifan      2250      
+Koneru     Humpy      2240      
+Alireza    Firouzja   2200      
+Judit      Polgar     2190      
+
+SECTION 4: Insertion Sort by Age (DESCENDING) 
+-------------------------------------------------
+Name                  Age       
+-------------------------------------------------
+Vishy      Anand      50        
+Judit      Polgar     49        
+Leinier    Dominguez  42        
+Koneru     Humpy      38        
+Hikaru     Nakamura   38        
+Wesley     So         36        
+Magnus     Carlsen    35        
+Ding       Liren      33        
+Fabiano    Caruana    33        
+Hou        Yifan      31        
+Anish      Giri       31        
+Alireza    Firouzja   22        
+
+SECTION 4: Merge Sort for Title & Number of Games 
+-------------------------------------------------
+Name                 Title      Games     
+-------------------------------------------------
+Koneru     Humpy      GM         1700      
+Hou        Yifan      GM         1800      
+Leinier    Dominguez  GM         1900      
+Ding       Liren      GM         2000      
+Wesley     So         GM         2100      
+Fabiano    Caruana    GM         2100      
+Anish      Giri       GM         2200      
+Judit      Polgar     GM         2300      
+Vishy      Anand      GM         2500      
+Magnus     Carlsen    GM         2500      
+Alireza    Firouzja   IM         1500      
+Hikaru     Nakamura   IM         2000      
+
+SECTION 6: Total Number Players 
+-------------------------------------------------
+Name                
+-------------------------------------------------
+Koneru     Humpy     
+Hou        Yifan     
+Leinier    Dominguez 
+Ding       Liren     
+Wesley     So        
+Fabiano    Caruana   
+Anish      Giri      
+Judit      Polgar    
+Vishy      Anand     
+Magnus     Carlsen   
+Alireza    Firouzja  
+Hikaru     Nakamura  
+
+Top Player in Chess Today: 12
+
+SECTION 7: Linear Search for Player Name 
+-------------------------------------------------
+Name                    Match Found
+-------------------------------------------------
+Hikaru Nakamura         Yes       
