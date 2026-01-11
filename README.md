@@ -9,7 +9,7 @@ A Java project that processes chess player data using data structures and algori
 - Stack
 
 ## Program Flow
-![Program Flowchart](images/Project Flowchart.png)
+![Program Flowchart](images/flowchart.png)
 
 ## Installation
 1. Clone this repo: `git clone ...`
